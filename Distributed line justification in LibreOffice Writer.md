@@ -17,11 +17,12 @@ If we center it, it does not look readable or neat.
 
 On the paragraph section of the ribbon, we see options for left, centered, and right justification, full justification, and then distributed justification, where text is distributed to both left and right margins. We can highlight the target text and activate distributed justification with that button, like so. 
 
-![MS WOrd](img/Screenshot_MSWord.distrib3.png)
+![MS Word](img/Screenshot_MSWord.distrib3.png)
 
 Then we add some tabs in between the text items on each line to make it prettier. We could add some extra tabs in the tab settings, or add some spacing, to push some of the text further right, and of course, change the font to something better looking. 
 
 ![MS Word](img/Screenshot_MSWord.distrib4.png)
+
 
 ## How about Libre?
 I found myself wanting to do this in LibreOffice Writer, but there was no such option.  
@@ -41,10 +42,10 @@ I will put the same text as before into a LibreOffice Writer document, apply the
 
 We'll close the dialogue box for the Text Body paragraph style. Now I'm going to create a new style by right clicking on Text Body (since I want to base the new style on the Text Body style), and create a new style, called Text Body distributed (or whatever you like). 
 
-![Libre](img/LIbre.distrib2.png)
+![Libre](img/Libre.distrib2.png)
 
 
-![Libre](img/LIbre.distrib3.png)
+![Libre](img/Libre.distrib3.png)
 
 
 Now for the magic. We need to go to the tab for the paragraph style called Tabs, and set up the special tabbing that I found that Libre uses for its table of contents style. This is for the 'Text body distributed' paragraph style (as circled on the right side of the picture below, which is hard to see). If you look at the top left, you will see the horizontal grid bar. If this is turned off, then from the top menu, select View > Rulers > Rulers to turn it on. You can see the spacing at the very right margin, which I've circled in the upper right corner. In dark mode it may be hard to see, but in this document, the right margin is set at 176 mm. (Yours may be in pixels, centimeters, kilometers, or god forbid, inches.) 
