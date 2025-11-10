@@ -6,3 +6,4 @@ I occasionally deal with software glitches, or minor Linux problems. When I figu
 * Obsidian error message: Too many files open (in Ubuntu)
 * Distrubuted line justification in LibreOffice Writer
 * Installing double-sided SSDs in a laptop
+* Switching from VirtualBox to KVM / QEMU
